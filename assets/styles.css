@@ -1,0 +1,21 @@
+.carpet,
+.carpet__container {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.carpet {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.carpet__container {
+    display: block;
+    margin: 0.45em;
+}
+
+.carpet__image {
+    display: block;
+    max-width: 100%;
+}
